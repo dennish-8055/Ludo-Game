@@ -18,4 +18,11 @@ This is 2D game developed in android studio !
   
 </div>
 
+## 📄 License
 
+This project is licensed under the MIT License.
+
+## 👨‍💻 Author
+
+**Dennish Yadav**  
+GitHub: https://github.com/dennish-8055
